@@ -1,0 +1,56 @@
+# root file_name                                               ; Theory_XS fb;  Event_Number
+#treeEDBR_RSGravitonToWW_1000_bb.root                           ;  2370.     ;    29205
+#treeEDBR_RSGravitonToWW_1500_bb.root                           ;  235.      ;    26500
+#treeEDBR_RSGravitonToWW_2000_bb.root                           ;  47.97     ;    29854
+#treeEDBR_RSGravitonToWW_2500_bb.root                           ;  9.4       ;    25000
+#treeEDBR_RSGravitonToWW_3000_bb.root                           ;  2.92      ;    28983
+#treeEDBR_RSGravitonToWW_4000_bb.root                           ;  0.2739    ;    28687
+#TTJets_MSDecaysCKM_central_Tune4C_13TeV-madgraph-tauola.root   ;  831760.   ;    25347056
+#TBarToLeptons_s-channel-CSA14_Tune4C_13TeV-aMCatNLO-tauola.root;  4160.     ;    250000
+#TBarToLeptons_t-channel_Tune4C_CSA14_13TeV-aMCatNLO-tauola.root;  80970.    ;    1999800
+#Tbar_tW-channel-DR_Tune4C_13TeV-CSA14-powheg-tauola.root       ;  35600.    ;    971800
+#TToLeptons_s-channel-CSA14_Tune4C_13TeV-aMCatNLO-tauola.root   ;  7200.     ;    500000
+#TToLeptons_t-channel-CSA14_Tune4C_13TeV-aMCatNLO-tauola.root   ;  136050.   ;    3991000
+#T_tW-channel-DR_Tune4C_13TeV-CSA14-powheg-tauola.root          ;  35600.    ;    986100
+#LOWW-lvjj-PT180.root                                           ;  290.      ;    19800
+#WJetsToLNu_HT-100to200_Tune4C_13TeV-madgraph-tauola.root       ;  1817000.  ;    5262265
+#WJetsToLNu_HT-200to400_Tune4C_13TeV-madgraph-tauola.root       ;  471600.   ;    4936077
+#WJetsToLNu_HT-400to600_Tune4C_13TeV-madgraph-tauola.root       ;  55610.    ;    4640594
+#WJetsToLNu_HT-600toInf_Tune4C_13TeV-madgraph-tauola.root       ;  18810.    ;    4581841
+#WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8.root   ;  61526700.  ;  24089991
+ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1.root   ;  3657.     ;    1
+###!ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1.root   ;  26065.  ;  681900
+###!ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1.root   ;  43798.  ; 1273800
+###!ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1.root   ;  35600.  ;  1000000
+###!ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1.root   ;  35600.  ;  998400
+###!TT_TuneCUETP8M1_13TeV-powheg-pythia8.root  ; 831760.  ;  1
+###!WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 1347000. ; 10152718
+###!WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 360000. ; 5221599
+###!WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 48900. ; 1745914
+###!#WJetsToLNu_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 
+###!WJetsToLNu_HT-600To800_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 12800. ; 4041997
+###!WJetsToLNu_HT-800To1200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root ; 5260.  ; 1574633
+###!WJetsToLNu_HT-1200To2500_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root; 1330. ; 255637
+###!WJetsToLNu_HT-2500ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ; 30.089 ; 253036
+###!WWToLNuQQ_13TeV-powheg.root   ;  49997.  ;1951600  ;
+###!WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8.root   ; 10710. ; 24714550
+###!ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8.root   ; 3220.  ;  18790122
+###!#WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 1347000*1.21 ; 1
+###!#WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 360000*1.21  ; 1
+###!#WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 48900*1.21   ; 1
+###!#WJetsToLNu_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 18770*1.21   ; 1
+###!#WJetsToLNu_HT-100To200_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 1629870 ; 1
+###!#WJetsToLNu_HT-200To400_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 435600  ; 1
+###!#WJetsToLNu_HT-400To600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 59169   ; 1
+###!#WJetsToLNu_HT-600ToInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root  ; 22711.7   ; 1
+###!#TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8.root   ;  831760.  ;  4992231
+###!#TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8.root ; 831760.  ;  1
+###!#WW_TuneCUETP8M1_13TeV-pythia8.root   ;  118700.  ;  989608
+###!#WZ_TuneCUETP8M1_13TeV-pythia8.root   ;  47130.   ;  996920
+###!#ZZ_TuneCUETP8M1_13TeV-pythia8.root   ;  16523.   ;  998848
+###!#SingleMuon_JSONv3all.root   ;  1.  ; 1
+###!#SingleElectron_JSONv3all.root   ;  1.  ; 1
+###!singleMuon15D_Oct.root    ; 1.  ; 1
+###!singleMuon15Dv4.root    ; 1.  ; 1
+###!singleEl15Dv4.root    ; 1.  ; 1
+###!singleEl15D_Oct.root    ; 1.  ; 1
